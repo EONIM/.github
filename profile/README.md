@@ -1,4 +1,4 @@
-![Logo](../EONIM.png)
+<img src="../EONIM.png" alt="Logo" width="200" />
 
 
 # Bienvenue chez EONIM
