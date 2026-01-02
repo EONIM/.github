@@ -1,4 +1,4 @@
-![Logo](EONIM.png)
+![Logo](../EONIM.png)
 
 
 # Bienvenue chez EONIM
